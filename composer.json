@@ -1,0 +1,13 @@
+{
+	"name": "warengo/async-control",
+	"description": "Asynchronous control",
+	"autoload": {
+		"psr-4": {
+			"Warengo\\AsyncControl\\": "src/"
+		}
+	},
+	"require": {
+		"php": ">= 7.3",
+		"nette/application": "^3.0"
+	}
+}
